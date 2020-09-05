@@ -1,0 +1,15 @@
+{
+  "name": "package-b",
+  "version": "0.1.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Vladimir Gorej",
+  "license": "BSD-3-Clause",
+  "homepage": "https://github.com/char0n/lerna-monorepo-taming",
+  "dependencies": {
+    "ramda": "=0.27.0",
+    "ramda-adjunct": "=2.27.0"
+  }
+}
