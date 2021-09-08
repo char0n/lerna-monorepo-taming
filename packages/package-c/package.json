@@ -11,8 +11,8 @@
   "dependencies": {
     "ramda": "=0.27.0",
     "ramda-adjunct": "=2.27.0",
-    "package-a": "file:../package-a",
-    "package-b": "file:../package-b"
+    "package-a": "*",
+    "package-b": "*"
   },
   "devDependencies": {
     "tree-sitter-cli": "=0.16.9"
